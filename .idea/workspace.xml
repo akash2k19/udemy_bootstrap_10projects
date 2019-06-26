@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project1/img/about-bcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/projects-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/img/team-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="388" column="6" selection-start-line="388" selection-start-column="6" selection-end-line="388" selection-end-column="6" />
+            <state relative-caret-position="215">
+              <caret line="153" column="114" selection-start-line="153" selection-start-column="41" selection-end-line="153" selection-end-column="114" />
             </state>
           </provider>
         </entry>
@@ -130,19 +114,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561573176529</updated>
-      <workItem from="1561573177856" duration="4400000" />
+      <workItem from="1561573177856" duration="5175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4400000" />
+    <option name="totallyTimeSpent" value="5175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="23" width="1186" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24978541" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24978541" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3293124" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -159,6 +143,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24978541" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3293124" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -222,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="388" column="6" selection-start-line="388" selection-start-column="6" selection-end-line="388" selection-end-column="6" />
+        <state relative-caret-position="215">
+          <caret line="153" column="114" selection-start-line="153" selection-start-column="41" selection-end-line="153" selection-end-column="114" />
         </state>
       </provider>
     </entry>
