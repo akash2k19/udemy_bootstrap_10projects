@@ -2,38 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project3/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/bannerBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/bedroom.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/bedroom2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/featured-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/featured-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/featured-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/kitchen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/livingRoom.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/livingRoom2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,14 +24,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project3/css/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56457" />
+            <state relative-caret-position="338">
+              <caret line="3747" column="21" lean-forward="true" selection-start-line="3747" selection-start-column="21" selection-end-line="3747" selection-end-column="21" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project3/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="692">
@@ -130,7 +100,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project3/css" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -169,19 +139,19 @@
       <updated>1561573176529</updated>
       <workItem from="1561573177856" duration="7314000" />
       <workItem from="1561765753272" duration="501000" />
-      <workItem from="1561837554473" duration="1039000" />
+      <workItem from="1561837554473" duration="1661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8854000" />
+    <option name="totallyTimeSpent" value="9476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="1843" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1597146" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1597146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3293124" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -327,15 +297,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project3/css/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56457" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project3/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="692">
           <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project3/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="3747" column="21" lean-forward="true" selection-start-line="3747" selection-start-column="21" selection-end-line="3747" selection-end-column="21" />
         </state>
       </provider>
     </entry>

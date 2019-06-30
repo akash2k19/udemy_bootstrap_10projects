@@ -132,3 +132,108 @@ body {
   background: var(--mainWhite);
   color: var(--mainGreen);
 }
+/* services section */
+.services,
+.tour {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../img/bannerBcg.jpeg") center/cover fixed no-repeat;
+}
+.services-info-text {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--mainGreen);
+  color: var(--mainWhite) !important;
+  margin-bottom: 0;
+  text-decoration: none;
+  text-align: center;
+}
+.services-info-text:hover {
+  color: var(--mainDark) !important;
+  text-decoration: none;
+}
+.service-icon {
+  font-size: 2rem;
+  color: var(--mainGreen);
+  padding: 0.5rem;
+  border: 0.1rem solid var(--mainGreen);
+  margin-right: 1rem;
+  transition: all 1s ease-in-out;
+}
+.service-icon:hover {
+  background: var(--mainGreen);
+  color: var(--mainGrey);
+}
+.service-link:hover {
+  color: var(--mainWhite);
+}
+/* gallery section */
+.gallery-btn:hover {
+  background: var(--mainGreen);
+  color: var(--mainWhite);
+}
+.gallery-img-container {
+  position: relative;
+  transition: all 1s linear;
+  overflow: hidden;
+}
+.gallery-img-container:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+.gallery-img {
+  transition: all 1s linear;
+}
+.gallery-img-container:hover .gallery-img {
+  opacity: 0.3;
+}
+.gallery-info {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 100%);
+  background: var(--mainGreen);
+  color: var(--mainWhite);
+  text-decoration: none;
+  transition: all 0.3s linear;
+}
+.gallery-info:hover {
+  text-decoration: none;
+  color: var(--mainDark);
+}
+.gallery-img-container:hover .gallery-info {
+  transform: translate(-50%, 0);
+}
+
+.gallery-icon {
+  position: absolute;
+  color: var(--mainWhite);
+  top: 50%;
+  left: 50%;
+  font-size: 2rem;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all 0.3s linear;
+  cursor: pointer;
+}
+.gallery-img-container:hover .gallery-icon {
+  opacity: 1;
+}
+/* tour */
+.tour-icon {
+  color: var(--mainGreen);
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: var(--mainWhite);
+  border-radius: 30%;
+  font-size: 2rem;
+  cursor: pointer;
+  transition: all 1s linear;
+}
+.tour-icon:hover {
+  background: var(--mainGreen);
+  color: var(--mainWhite);
+}
+.footer {
+  background: var(--mainDark);
+}
