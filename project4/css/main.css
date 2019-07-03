@@ -68,7 +68,7 @@ body {
     url("../img/pageBcg/storeBcg.jpeg") center/cover fixed no-repeat;
 }
 
-/* #######################HomePage############### */
+/* #HomePage# */
 /* navbar */
 .navbar-toggler {
   outline: none !important;
@@ -265,7 +265,7 @@ body {
 .footer-icon:hover {
   color: var(--mainWhite);
 }
-
+/* #Products# */
 .products-categories-underline {
   height: 0.2rem;
   width: 5rem;
@@ -297,8 +297,8 @@ body {
 .products-color-yellow {
   background: yellow;
 }
-
-
+/* #END OF PRODUCTS # */
+/* #SINGLE PRODUCT # */
 .single-product-photo {
   background: var(--TransGrey);
   opacity: 0.5;
@@ -322,4 +322,4 @@ body {
   color: var(--mainYellow);
 }
 
-
+/* #END OF SINGLE PRODUCT #*/
