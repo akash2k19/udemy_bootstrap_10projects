@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="" />
+    <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/banner-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/banner-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/banner-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/current-project.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/img/video-filler.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project7/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/udemy_bootstrap_10projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy_bootstrap_10projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project6/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project6/css/main.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,14 +49,50 @@
         <entry file="file://$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="129">
-              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project6/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="292" column="14" selection-start-line="292" selection-start-column="14" selection-end-line="292" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project6/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project7/script.js">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project7/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="720" selection-start-line="720" selection-end-line="720" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project7/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9330">
+              <caret line="622" selection-start-line="622" selection-end-line="622" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -86,13 +145,16 @@
         <option value="$PROJECT_DIR$/project4/css/main.css" />
         <option value="$PROJECT_DIR$/project5/css/main.css" />
         <option value="$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/project6/index.html" />
+        <option value="$PROJECT_DIR$/project6/css/main.css" />
+        <option value="$PROJECT_DIR$/project7/main.css" />
+        <option value="$PROJECT_DIR$/project7/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1841" />
+    <option name="width" value="1855" />
     <option name="height" value="976" />
   </component>
   <component name="ProjectView">
@@ -110,13 +172,7 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project6" type="462c0819:PsiDirectoryNode" />
-              <item name="magnific-popup" type="462c0819:PsiDirectoryNode" />
+              <item name="project7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,17 +185,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project7" />
       <recent name="$PROJECT_DIR$/project6" />
       <recent name="$PROJECT_DIR$/project5" />
       <recent name="$PROJECT_DIR$/project4" />
       <recent name="$PROJECT_DIR$/project3" />
-      <recent name="$PROJECT_DIR$/project2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/project1" />
@@ -172,19 +228,19 @@
       <workItem from="1561837554473" duration="1661000" />
       <workItem from="1562031557739" duration="7374000" />
       <workItem from="1562253033010" duration="392000" />
-      <workItem from="1562253654587" duration="640000" />
+      <workItem from="1562253654587" duration="2631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17882000" />
+    <option name="totallyTimeSpent" value="19873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1841" height="976" extended-state="0" />
+    <frame x="0" y="23" width="1855" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15989012" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15866958" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -415,12 +471,40 @@
     <entry file="file://$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
-          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="292" column="14" selection-start-line="292" selection-start-column="14" selection-end-line="292" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project6/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project7/script.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project7/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9330">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="720" selection-start-line="720" selection-end-line="720" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
