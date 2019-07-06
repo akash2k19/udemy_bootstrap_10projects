@@ -2,28 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cfb768-c57e-4c0d-9b12-05df3e47f17d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/banner-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/banner-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/banner-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/current-project.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-coffee-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-tea-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/projects-water-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/img/video-filler.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project7/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/udemy_bootstrap_10projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy_bootstrap_10projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/JS/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/JS/isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/JS/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/JS/numscroller-1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/JS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/background-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/background-filler-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/background-filler-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/current-projects-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/current-projects-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/current-projects-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/current-projects-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-city-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-city-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-city-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-country-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-country-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-country-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-water-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-water-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/projects-water-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/quotes-background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/images/team-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/owl/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/owl/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/owl/owl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project8/owl/owl.theme.default.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project6/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project6/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project7/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project7/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,68 +89,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project5/css/main.css">
+        <entry file="file://$PROJECT_DIR$/project8/owl/owl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="340" column="26" selection-start-line="340" selection-start-column="25" selection-end-line="340" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/project8/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project6/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="292" column="14" selection-start-line="292" selection-start-column="14" selection-end-line="292" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project6/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/project8/owl/owl.theme.default.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project7/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project8/JS/bootstrap.bundle.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project8/JS/isotope.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project8/JS/jquery-3.3.1.min.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project7/index.html">
+        <entry file="file://$PROJECT_DIR$/project8/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="720" selection-start-line="720" selection-end-line="720" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project7/main.css">
+        <entry file="file://$PROJECT_DIR$/project1/js/all.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9330">
-              <caret line="622" selection-start-line="622" selection-end-line="622" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project6/magnific-popup/jquery.magnific-popup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-100729">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -107,18 +155,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/project8/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project5/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -147,15 +189,22 @@
         <option value="$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css" />
         <option value="$PROJECT_DIR$/project6/index.html" />
         <option value="$PROJECT_DIR$/project6/css/main.css" />
-        <option value="$PROJECT_DIR$/project7/main.css" />
         <option value="$PROJECT_DIR$/project7/index.html" />
+        <option value="$PROJECT_DIR$/project7/main.css" />
+        <option value="$PROJECT_DIR$/project8/owl/owl.carousel.min.css" />
+        <option value="$PROJECT_DIR$/project8/owl/owl.carousel.min.js" />
+        <option value="$PROJECT_DIR$/project8/owl/owl.theme.default.min.css" />
+        <option value="$PROJECT_DIR$/project8/main.css" />
+        <option value="$PROJECT_DIR$/project8/JS/bootstrap.bundle.min.js" />
+        <option value="$PROJECT_DIR$/project8/JS/jquery-3.3.1.min.js" />
+        <option value="$PROJECT_DIR$/project8/JS/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1855" />
-    <option name="height" value="976" />
+    <option name="y" value="41" />
+    <option name="width" value="1215" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -174,6 +223,17 @@
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
               <item name="project7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
+              <item name="project8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
+              <item name="project8" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,17 +245,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project8" />
       <recent name="$PROJECT_DIR$/project7" />
       <recent name="$PROJECT_DIR$/project6" />
       <recent name="$PROJECT_DIR$/project5" />
       <recent name="$PROJECT_DIR$/project4" />
-      <recent name="$PROJECT_DIR$/project3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/project1" />
@@ -228,19 +288,21 @@
       <workItem from="1561837554473" duration="1661000" />
       <workItem from="1562031557739" duration="7374000" />
       <workItem from="1562253033010" duration="392000" />
-      <workItem from="1562253654587" duration="2631000" />
+      <workItem from="1562253654587" duration="4116000" />
+      <workItem from="1562425619048" duration="1654000" />
+      <workItem from="1562435962524" duration="2458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19873000" />
+    <option name="totallyTimeSpent" value="25470000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1855" height="976" extended-state="0" />
+    <frame x="0" y="41" width="1215" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15866958" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2437186" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -262,26 +324,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/img/team-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/projects-6.jpeg" />
-    <entry file="file://$PROJECT_DIR$/img/projects-4.jpeg" />
-    <entry file="file://$PROJECT_DIR$/img/projects-1.jpeg" />
-    <entry file="file://$PROJECT_DIR$/project1/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/js/all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/js/bootstrap.bundle.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -443,8 +485,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project5/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="5100">
           <caret line="340" column="26" selection-start-line="340" selection-start-column="25" selection-end-line="340" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4380">
+          <caret line="292" column="14" selection-start-line="292" selection-start-column="14" selection-end-line="292" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project6/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project7/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9480">
+          <caret line="632" column="17" selection-start-line="632" selection-start-column="16" selection-end-line="632" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project6/magnific-popup/jquery.magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,50 +538,71 @@
     <entry file="file://$PROJECT_DIR$/project5/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project6/magnific-popup/jquery.magnific-popup.js">
+    <entry file="file://$PROJECT_DIR$/project7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="697">
+          <caret line="682" column="41" selection-start-line="682" selection-start-column="41" selection-end-line="682" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/owl/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/owl/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/owl/owl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/owl/owl.theme.default.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/JS/bootstrap.bundle.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/JS/isotope.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/JS/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project8/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/js/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100729">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project6/magnific-popup/magnific-popup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="292" column="14" selection-start-line="292" selection-start-column="14" selection-end-line="292" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project6/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="296" column="20" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project7/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project7/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9330">
-          <caret line="622" selection-start-line="622" selection-end-line="622" />
+        <state relative-caret-position="480">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project7/index.html">
+    <entry file="file://$PROJECT_DIR$/project8/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="720" selection-start-line="720" selection-end-line="720" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

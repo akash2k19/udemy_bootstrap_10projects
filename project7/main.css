@@ -616,7 +616,7 @@ body {
 }
 
 #contact {
-  background: linear-gradient(rgba(42, 145, 52, 0.3), rgba(42, 145, 52, 0.3)), url(img/banner-1.jpeg)center/cover fixed no-repeat;
+  backgradient(rgba(42, 145, 52, 0.3), rgba(42, 145, 52, 0.3)), url(img/banner-1.jpeg)center/cover fixed no-repeat;
 }
 
 
@@ -625,7 +625,7 @@ body {
   transition: all 2s ease;
 }
 
-#contact .card:hover {
+#cont                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 act .card:hover {
   background: rgba(0, 0, 0, 0.8);
 }
 
@@ -639,11 +639,15 @@ body {
   color: #242424
 }
 
-#contact .card input {
+#contact .card inpscript.js
+main.css
+index.html
+img
+all.js            ut {
   color: #606060;
 }
 
-#contact .card input::placeholder {
+#contact .card input     ::placeholder {
   color: #606060;
 }
 
@@ -655,7 +659,7 @@ body {
 
 .contact-btn:hover {
   background: transparent;
-  border-color: #2a9134;
+  border-color:    #2a9134;
   color: #2a9134;
 }
 
