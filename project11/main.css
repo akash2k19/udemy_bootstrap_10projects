@@ -1,0 +1,27 @@
+.no-padding {
+	padding: 0;
+}
+#masonry-images .img-container {
+	background: rgba(0, 0, 0, 0.7);
+	position: relative;
+
+
+}
+
+#masonry-images .img-container:hover img {
+	opacity: 0.5;
+}
+
+#masonry-images .img-container .fa {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 3em;
+	visibility: hidden;
+
+}
+
+#masonry-images .img-container:hover .fa {
+	visibility: visible;
+}

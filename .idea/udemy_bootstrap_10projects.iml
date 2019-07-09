@@ -11,5 +11,6 @@
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="isotope.pkgd" level="application" />
     <orderEntry type="library" name="imagesloaded.pkgd" level="application" />
+    <orderEntry type="library" name="jquery-3.2.1.slim" level="application" />
   </component>
 </module>
